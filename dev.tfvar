@@ -1,0 +1,3 @@
+itype = "t3.micro"
+az = "ap-south-2b"
+az2 = "us-east-1b"

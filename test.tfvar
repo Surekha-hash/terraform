@@ -1,0 +1,3 @@
+itype = "t3.small"
+az = "ap-south-2a"
+az2 = "us-east-1c"
